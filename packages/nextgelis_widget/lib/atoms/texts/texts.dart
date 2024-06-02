@@ -1,0 +1,12 @@
+export './badge1text_atom.dart';
+export './body1text_atom.dart';
+export './body2text_atom.dart';
+export './caption1text_atom.dart';
+export './caption2text_atom.dart';
+export './caption3text_atom.dart';
+export './headline1text_atom.dart';
+export './headline2text_atom.dart';
+export './headline3text_atom.dart';
+export './menu1text_atom.dart';
+export './title1text_atom.dart';
+export './title2text_atom.dart';
